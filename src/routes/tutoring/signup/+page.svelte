@@ -16,7 +16,7 @@
 	<iframe
 		class="mx-auto"
 		title="google form"
-		src="https://docs.google.com/forms/d/e/1FAIpQLSemn4XOS8igDLlpWvQa4v9Nw-SisQ5-ujXophDct01WflGW9A/viewform?embedded=true"
+		src="https://docs.google.com/forms/d/e/1FAIpQLSfT90vHNvWC79wvsQ50u6ylJATHgQSybTAngKf_UTj74n0vJw/viewform?embedded=true"
 		width="640"
 		height="600"
 		frameborder="0"
