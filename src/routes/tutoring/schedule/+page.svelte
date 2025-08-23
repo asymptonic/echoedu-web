@@ -59,7 +59,7 @@
 	};
 </script>
 
-<PageFormat title="Scheduling Page" description="Schedule your next opening!">
+<PageFormat title="Scheduling Page" description="Schedule your next opening! *appointments can only happen on campus">
 	<div class="overflow-hidden rounded-md md:border md:p-6">
 		<div class="flex w-full flex-col gap-5 md:flex-row">
 			<Calendar
